@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+# Name: D Vergin Jenifer
+# Register no.: 212223240174
 # In[1]:Write your code to find the histogram of gray scale image and color image channels
 
 
@@ -9,7 +10,7 @@ import matplotlib.pyplot as plt
 gray_image = cv2.imread("gray image of flower.jpg")
 color_image = cv2.imread()
 cv2.imshow("Gray Image",gray_image)
-# Name: D Vergin Jenifer
+
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
