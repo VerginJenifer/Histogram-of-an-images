@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 gray_image = cv2.imread("gray image of flower.jpg")
 color_image = cv2.imread()
 cv2.imshow("Gray Image",gray_image)
-
+# Name: D Vergin Jenifer
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
